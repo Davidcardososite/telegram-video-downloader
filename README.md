@@ -1,5 +1,5 @@
 ![Logo do Telegram redes sociais](images/downloader-video.jpg)
-# <img src="images/Telegram_2019_Logo.svg.png" margin-right="40" width="40" height="40"> Telegram Video Downloader Bot
+# <img src="images/Telegram_2019_Logo.svg.png" margin="40" width="40" height="40"> Telegram Video Downloader Bot
 ```markdown
 # 🤖 Telegram Video Downloader Bot
 
