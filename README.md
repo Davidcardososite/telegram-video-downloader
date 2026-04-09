@@ -1,4 +1,5 @@
 ```markdown
+![Logo do Telegram](images/telegram-logo.png)
 # 🤖 Telegram Video Downloader Bot
 
 Um bot do Telegram poderoso para download de vídeos do YouTube, Instagram, Facebook, TikTok, Twitter/X e outras plataformas.
