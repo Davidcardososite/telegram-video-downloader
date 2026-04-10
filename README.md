@@ -183,11 +183,6 @@ self.MAX_FILE_SIZE = 1500 * 1024 * 1024  # 1.5GB
 self.CLEANUP_INTERVAL = 43200  # 12 horas
 ```
 
-### Adicionar administradores
-```python
-# Em bot.py
-self.ADMIN_IDS = [123456789, 987654321]  # IDs do Telegram
-```
 
 ### Configurar proxy (opcional)
 ```python
@@ -292,24 +287,6 @@ Contribuições são bem-vindas!
 - [FFmpeg](https://ffmpeg.org/) - Processamento de vídeo
 - [@BotFather](https://t.me/BotFather) - Criação do bot
 
-## 🚀 Deploy Rápido (Docker)
-
-```dockerfile
-FROM python:3.9-slim
-
-WORKDIR /app
-
-RUN apt-get update && apt-get install -y ffmpeg
-
-COPY requirements.txt .
-RUN pip install -r requirements.txt
-
-COPY app/ ./app/
-
-ENV TELEGRAM_BOT_TOKEN="seu_token"
-
-CMD ["python", "app/bot.py"]
-```
 
 
 ## 🔧 Arquivo requirements.txt
