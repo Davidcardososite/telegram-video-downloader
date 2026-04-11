@@ -1,5 +1,5 @@
 ![Logo do Telegram redes sociais](images/downloader-video.jpg)
-# <img src="images/Telegram_2019_Logo.svg.png" margin="40" width="40" height="40"> Um bot do Telegram poderoso para download de vídeos do YouTube, Instagram, Facebook, TikTok, Twitter/X e outras plataformas.
+## <img src="images/Telegram_2019_Logo.svg.png" margin="40" width="40" height="40"> Um bot do Telegram para download de vídeos do YouTube, Instagram, Facebook, TikTok, Twitter/X e outras plataformas.
 
 <div align="center">
   
